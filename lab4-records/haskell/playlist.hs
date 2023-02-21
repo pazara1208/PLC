@@ -3,6 +3,7 @@ module Main where
 import Text.Printf
 
 -- start of code to focus on in Practical 4
+-- test comment for github
 
 data Person
     = Person
